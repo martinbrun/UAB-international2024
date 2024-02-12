@@ -24,12 +24,12 @@ The evaluation of learning will be conducted through:
 
 ## First Problem Set
 
-- **Task:** Analyze the estimates of Spain's Gross Domestic Product for the second quarter of 2022. All the details are in the [[pdf](https://github.com/martinbrun/UAB-international/raw/main/problemset.pdf)].
+- **Task:** Analyze the estimates of Spain's Gross Domestic Product for the second quarter of 2022. All the details are in the [[pdf](https://github.com/martinbrun/UAB-international2024/raw/main/problemset.pdf)].
 - **Deadline:** March 3<sup>rd</sup> 2024, 23:59 CET
 
 ## Class progress [materials in the links]
 
 **Tuesday 13 Feb 2024: Class 09:00 - 11:00 (Classroom 4)**
 
-- General introduction to the course [[00_intro1](https://github.com/martinbrun/UAB-international/raw/main/00_intro1.pdf)]
-- Introduction to the first part of the course [[00_intro2](https://github.com/martinbrun/UAB-international/raw/main/00_intro2.pdf)]
+- General introduction to the course [[00_intro1](https://github.com/martinbrun/UAB-international2024/raw/main/00_intro1.pdf)]
+- Introduction to the first part of the course [[00_intro2](https://github.com/martinbrun/UAB-international2024/raw/main/00_intro2.pdf)]
