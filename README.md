@@ -33,3 +33,9 @@ The evaluation of learning will be conducted through:
 
 - General introduction to the course [[00_intro1](https://github.com/martinbrun/UAB-international2024/raw/main/00_intro1.pdf)]
 - Introduction to the first part of the course [[00_intro2](https://github.com/martinbrun/UAB-international2024/raw/main/00_intro2.pdf)]
+- Introduction to indices and changes [[01_vars](https://github.com/martinbrun/UAB-international2024/raw/main/01_vars.pdf)]
+
+**Thursday 15 Feb 2024: Class 11:15 - 13:15 (Classroom 4)**
+
+- Indices and changes [[01_vars](https://github.com/martinbrun/UAB-international2024/raw/main/01_vars.pdf)]
+- Exercises on indices and changes [[01_exercises](https://github.com/martinbrun/UAB-international2024/raw/main/01_exercises.pdf)]
