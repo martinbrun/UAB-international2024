@@ -59,9 +59,15 @@ The evaluation of learning will be conducted through:
 
 - Introduction to balance of payments [[03_bp](https://github.com/martinbrun/UAB-international2024/raw/main/03_bp.pdf)]
 
-**Tuesday 27 Feb 2024: Class 09:00 - 11:00 (Classroom 4)**
+**Tuesday 05 Mar 2024: Class 09:00 - 11:00 (Classroom 4)**
 
 - Problem set solution guide [[problemset-solution](https://github.com/martinbrun/UAB-international2024/raw/main/problemset-solution.pdf)] 
 - Macromagnitudes: CPI [[02_gdp](https://github.com/martinbrun/UAB-international2024/raw/main/02_gdp.pdf)]
 - Balance of payments [[03_bp](https://github.com/martinbrun/UAB-international2024/raw/main/03_bp.pdf)]
+- Exercises on macromagnitudes [[03_exercises](https://github.com/martinbrun/UAB-international2024/raw/main/03_exercises.pdf)]
+
+**Thursday 07 Feb 2024: Class 11:15 - 13:15 (Classroom 4)**
+
+- Balance of payments [[03_bp](https://github.com/martinbrun/UAB-international2024/raw/main/03_bp.pdf)]
+- Exercises on macromagnitudes [[03_exercises](https://github.com/martinbrun/UAB-international2024/raw/main/03_exercises.pdf)]
 
