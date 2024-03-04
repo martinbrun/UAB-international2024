@@ -39,3 +39,29 @@ The evaluation of learning will be conducted through:
 
 - Indices and changes [[01_vars](https://github.com/martinbrun/UAB-international2024/raw/main/01_vars.pdf)]
 - Exercises on indices and changes [[01_exercises](https://github.com/martinbrun/UAB-international2024/raw/main/01_exercises.pdf)]
+
+**Tuesday 20 Feb 2024: Class 09:00 - 11:00 (Classroom 4)**
+
+- Indices and changes [[01_vars](https://github.com/martinbrun/UAB-international2024/raw/main/01_vars.pdf)]
+- Exercises on indices and changes [[01_exercises](https://github.com/martinbrun/UAB-international2024/raw/main/01_exercises.pdf)]
+
+**Thursday 22 Feb 2024: Class 11:15 - 13:15 (Classroom 4)**
+
+- Exercises on indices and changes [[01_exercises](https://github.com/martinbrun/UAB-international2024/raw/main/01_exercises.pdf)]
+- Introduction to Macromagnitudes [[02_gdp](https://github.com/martinbrun/UAB-international2024/raw/main/02_gdp.pdf)]
+
+**Tuesday 27 Feb 2024: Class 09:00 - 11:00 (Classroom 4)**
+
+- Macromagnitudes [[02_gdp](https://github.com/martinbrun/UAB-international2024/raw/main/02_gdp.pdf)]
+- Exercises on macromagnitudes [[02_exercises](https://github.com/martinbrun/UAB-international2024/raw/main/02_exercises.pdf)]
+
+**Thursday 29 Feb 2024: Class 11:15 - 13:15 (Classroom 4)**
+
+- Introduction to balance of payments [[03_bp](https://github.com/martinbrun/UAB-international2024/raw/main/03_bp.pdf)]
+
+**Tuesday 27 Feb 2024: Class 09:00 - 11:00 (Classroom 4)**
+
+- Problem set solution guide [[problemset-solution](https://github.com/martinbrun/UAB-international2024/raw/main/problemset-solution.pdf)] 
+- Macromagnitudes: CPI [[02_gdp](https://github.com/martinbrun/UAB-international2024/raw/main/02_gdp.pdf)]
+- Balance of payments [[03_bp](https://github.com/martinbrun/UAB-international2024/raw/main/03_bp.pdf)]
+
